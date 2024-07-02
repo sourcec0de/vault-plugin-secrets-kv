@@ -1,0 +1,13 @@
+{
+   "metadata":{
+      "version":"1"
+   },
+   "name": "Vault Secrets Engine Sample",
+   "templates":[
+      {
+         "path":"/",
+         "name":"Vault Secrets Engine Sample",
+         "description":"This is an example of how to structure a vault secrets engine plugin"
+      }
+   ]
+}
